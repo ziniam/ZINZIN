@@ -1,23 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+</head>
+<body>
+<h1 id="templateh1">ZinV14</h1>
+<h2>ABOUT ME</h2>
 
-package main
+<p>Hello !</p>
 
-import (
-	"me"
-)
+<p>ZINV14 <em>aka</em> (Lê Hiển Vinh)</p>
 
-type Bio map[string]string
+<h4 id="date">Date:</h4>
+<p>01/04/2002</p>
 
-func main() {
-	for z,v  := range GetBio() {
-		me.Printf("%+v: %+v\n", z, v)
-	}
-}
+<h4 id="skill:">Skill:</h4>
+<p>
+- Front-End
+- OOP
+- Javascript
+- C++
+- Python
+- Unity
+- HTML CSS
+	
+<h4 id="connect:">Connect:</h4>	
+<p>Facbook: https://https://www.facebook.com/0zinionn0
+<br>Instagram: https://www.instagram.com/ziboyx/
+</p>
+	
+<p>Do whatever you want. Happy, baby.</p>
 
-func GetBio() Bio {
-	return Bio{
-		"- 🌱 I’m currently learning":        "Front End | OOP | ",
-    		"- 🤔 I'm looking for help":          "Anything😅",
-		"- 💬 Ask me about":                  "Python, JavaScript, C++",
-		"- 📫 How to reach me:":              "https://github.com/ZinV14#you-can-connect-with-me",
-	}
-}
+<h4 id="submitbugsorfixes:">Submit or Fixes:</h4>
+
+<p>https://github.com/ZinV14</p>
+
+</body>
+</html>
