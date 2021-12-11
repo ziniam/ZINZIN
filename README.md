@@ -16,7 +16,7 @@ func main() {
 func GetBio() Bio {
 	return Bio{
 		"- 🌱 I’m currently learning":        "Front End | OOP | ",
-    "- 🤔 I'm looking for help":          "Anything😅",
+    		"- 🤔 I'm looking for help":          "Anything😅",
 		"- 💬 Ask me about":                  "Python, JavaScript, C++",
 		"- 📫 How to reach me:":              "https://github.com/ZinV14#you-can-connect-with-me",
 	}
