@@ -11,7 +11,7 @@
 
 <p>ZINV14 <em>aka</em> (Lê Hiển Vinh)</p>
 
-<h4 id="date">Date:</h4>
+<h4 id="date">Date of birth:</h4>
 <p>01/04/2002</p>
 
 <h4 id="skill:">Skill:</h4>
