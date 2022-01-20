@@ -8,7 +8,8 @@
 
 <h3>HELLO !</h3>
 
-<p>Ziboyx <i>aka</i> (Lê Hiển Vinh), is </p>
+<p><i>Ziboyx aka (Lê Hiển Vinh), is a second-year IT student. At 15 years old he discovered his distinct personality and calling, when all his friends spent all their time with computer games, whereas Ziboyx used it to explore & learn about IT.</p>
+<p>My projects are here: <a href="">https://github.com/ZinV14/</a></p>
 
 <h4 id="date">&#10085; Date of birth:</h4>
 <p>01/04/2002</p>
@@ -23,7 +24,7 @@
 		<li>Unity &#10003;</li>
 		<li>HTML & CSS &#10003;</li>
 	</ul>
-<h4 id="connect:">&#10085; Connect:</h4>	
+<h4 id="connect:">&#10085; Connect SOCIAL MEDIA:</h4>	
 <ul>
 	<li>Facbook: <a href="">https://www.facebook.com/ziboyx</a></li>
 	<li>Instagram: <a href="">https://www.instagram.com/ziboyx/</a></li>
