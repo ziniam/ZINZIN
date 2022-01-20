@@ -29,7 +29,7 @@
 <br>Instagram: https://www.instagram.com/ziboyx/
 </p>
 	
-<p>Do whatever you want. Happy, baby.</p>
+<p>Vision - Passion - Flexibility</p>
 
 <h4 id="submitbugsorfixes:">Submit or Fixes:</h4>
 
