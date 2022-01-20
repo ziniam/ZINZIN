@@ -4,7 +4,6 @@
 	<meta charset="utf-8"/>
 </head>
 <body>
-<h1 id="templateh1">ZinV14</h1>
 <h2>ABOUT ME <3 </h2>
 
 <p>Hello !</p>
@@ -14,7 +13,7 @@
 <h4 id="date">Date of birth:</h4>
 <p>01/04/2002</p>
 
-<h4 id="skill:">Skill:</h4>
+<h4 id="skill:">Skills:</h4>
 <p>
 - Front-End
 - OOP
