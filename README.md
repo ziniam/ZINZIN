@@ -4,35 +4,37 @@
 	<meta charset="utf-8"/>
 </head>
 <body>
-<h2>ABOUT ME <3 </h2>
+<h1>ABOUT ME &hearts;</h1>
 
-<p>Hello !</p>
+<h3>HELLO !</h3>
 
-<p>ZINV14 <em>aka</em> (Lê Hiển Vinh)</p>
+<p>Ziboyx <i>aka</i> (Lê Hiển Vinh), is </p>
 
-<h4 id="date">Date of birth:</h4>
+<h4 id="date">&#10085; Date of birth:</h4>
 <p>01/04/2002</p>
 
-<h4 id="skill:">Skills:</h4>
-<p>
-- Front-End
-- OOP
-- Javascript
-- C++
-- Python
-- Unity
-- HTML CSS
+<h4 id="skill:">&#10085; Skills:</h4>
+<div>
+	<ul>
+		<li>OOP &#10003;</li>
+		<li>Java / Javascript &#10003;</li>
+		<li>C++ &#10003;</li>
+		<li>Python &#10003;</li>
+		<li>Unity &#10003;</li>
+		<li>HTML & CSS &#10003;</li>
+	</ul>
+<h4 id="connect:">&#10085; Connect:</h4>	
+<ul>
+	<li>Facbook: <a href="">https://www.facebook.com/ziboyx</a></li>
+	<li>Instagram: <a href="">https://www.instagram.com/ziboyx/</a></li>
+</ul>
+</div>
 	
-<h4 id="connect:">Connect:</h4>	
-<p>Facbook: https://https://www.facebook.com/0zinionn0
-<br>Instagram: https://www.instagram.com/ziboyx/
-</p>
-	
-<p>Vision - Passion - Flexibility</p>
+<h4><i><b>Vision - Passion - Flexibility</h4>
 
-<h4 id="submitbugsorfixes:">Submit or Fixes:</h4>
+<h4 id="submitbugsorfixes:">&#10085; Submit or Fixes:</h4>
 
-<p>https://github.com/ZinV14</p>
+<p>Email: <a href=""></a></p>
 
 </body>
 </html>
