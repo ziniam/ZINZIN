@@ -34,7 +34,7 @@
 
 <h4 id="submitbugsorfixes:">&#10085; Submit or Fixes:</h4>
 
-<p>Email: <a href=""></a></p>
+<p>Email: <a href="">lehienvinh.tk4@gmail.com</a></p>
 
 </body>
 </html>
