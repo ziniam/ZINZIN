@@ -8,7 +8,7 @@
 
 <h3>HELLO !</h3>
 
-<p><i>Ziboyx, a.k.a Lê Hiển Vinh, is a second-year IT student. At 15 years old he discovered his distinct personality and calling, when all his friends spent all their time with computer games, whereas Ziboyx used it to explore & learn about IT.</p>
+<p><i>Zin, a.k.a Lê Hiển Vinh, is a second-year IT student. At 15 years old he discovered his distinct personality and calling, when all his friends spent all their time with computer games, whereas Ziboyx used it to explore & learn about IT.</p>
 <p><i>At the age of 16, he learned about programming languages through youTube videos. After 2 years he was able to create basic projects of his own production.</p>
 <p>My projects are here: <a href="">https://github.com/ZinV14/</a> &hearts;</p>
 
