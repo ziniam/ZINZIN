@@ -18,7 +18,7 @@
 <h4 id="skill:">&#10085; Skills:</h4>
 <div>
 	<ul>
-		<li>OOP &#10003;</li>
+		<li>C# &#10003;</li>
 		<li>Java / Javascript &#10003;</li>
 		<li>C++ &#10003;</li>
 		<li>Python &#10003;</li>
