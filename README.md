@@ -27,8 +27,8 @@
 	</ul>
 <h4 id="connect:">&#10085; Connect SOCIAL MEDIA:</h4>	
 <ul>
-	<li>Facbook: <a href="">https://www.facebook.com/bug7.zin</a></li>
-	<li>Instagram: <a href="">https://www.instagram.com/zinpippo.bug7</a></li>
+	<li>Facbook: <a href="">https://www.facebook.com/zin.coder</a></li>
+	<li>Instagram: <a href="">https://www.instagram.com/zin.coder</a></li>
 </ul>
 </div>
 	
