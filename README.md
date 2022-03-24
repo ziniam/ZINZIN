@@ -18,7 +18,6 @@
 <h4 id="skill:">&#10085; Skills:</h4>
 <div>
 	<ul>
-		<li>C# &#10003;</li>
 		<li>Java / Javascript &#10003;</li>
 		<li>C++ &#10003;</li>
 		<li>HTML & CSS &#10003;</li>
