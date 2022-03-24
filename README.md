@@ -21,9 +21,8 @@
 		<li>C# &#10003;</li>
 		<li>Java / Javascript &#10003;</li>
 		<li>C++ &#10003;</li>
-		<li>Python &#10003;</li>
-		<li>Unity &#10003;</li>
 		<li>HTML & CSS &#10003;</li>
+		<li>SQL &#10003;</li>
 	</ul>
 <h4 id="connect:">&#10085; Connect SOCIAL MEDIA:</h4>	
 <ul>
