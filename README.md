@@ -4,37 +4,51 @@
 	<meta charset="utf-8"/>
 </head>
 <body>
-<h1>ABOUT ME &hearts;</h1>
+<header id="head">
+	<h3>&#9818; WEB DEVELOPER &#9818;</h3>
+	<h1>&#9752; PIP7 &#9752;</h1>
+</header>
+<main id="main">
+	<div class="content-1">
+		<h3>ABOUT ME &#9734;</h3>
+			<p>&#9839;<strong> PIP7</strong> is a multilingual programmer who is loved for its software products.
+				<strong> PIP7</strong>'s software is not fixed in any language or website.
+				<strong> PIP7</strong> brings customers the websites that he trusts with his constant research and training.
+			</p>
+		<p>&#9839; In 2022, <strong>PIP7</strong> decided to follow the major that he always wanted to express as Web/App. His EP "The Projects" is a feature project of his at the end of 2022. ...
+			</p>
+		<p>&#9839;<strong> PIP7</strong> teamed up with team-mates and launched The Projects in a new style. Once again, <strong>PIP7</strong> is seen as a programmer with a different and prominent direction in the <strong>IT</strong> market.
+			</p>
+		
+<h4 id="dateofbirth">&#9835; DATE OF BIRTH: </h4>
+		<p><b><i>01/04/2002</i></b></p>
+		
+<h4 id="skills">&#9835; SKILLS: </h4>
+		<ul>
+			<li><b>HTML, CSS, Javascript &#9832;</b></li>
+			<li><b>Java, C++ &#9832;</b></li>
+			<li><b>SQL &#9832;</b></li>
+		</ul>
+		
+<h4 id="knowledge">&#9835; KNOWLEDGE: </h4>
+		<ul>
+			<li><b>OOP &#9832;</b></li>
+			<li><b>Data Structure & Algorithms &#9832;</b></li>
+			<li><b>Basic Programming &#9832;</b></li>
+		</ul>
+		
+<h4 id="learning">&#9835; LEARNING: </h4>
+		<ul>
+			<li><b>Python, Flask, Django &#9760;</b></li>
+			<li><b>PHP, Ruby &#9760;</b></li>
+			<li><b>ReactJs &#9760;</b></li>
+		</ul>
+	</div>
+</main>
 
-<h3>HELLO !</h3>
-
-<p><i>Zin, a.k.a Lê Hiển Vinh, is a second-year IT student. At 15 years old he discovered his distinct personality and calling, when all his friends spent all their time with computer games, whereas Zin used it to explore & learn about IT.</p>
-<p><i>At the age of 16, he learned about programming languages through youTube videos. After 2 years he was able to create basic projects of his own production.</p>
-<p>My projects are here: <a href="">https://github.com/ZinV14/</a> &hearts;</p>
-
-<h4 id="date">&#10085; Date of birth:</h4>
-<p>01/04/2002</p>
-
-<h4 id="skill:">&#10085; Skills:</h4>
-<div>
-	<ul>
-		<li>Java / Javascript &#10003;</li>
-		<li>C++ &#10003;</li>
-		<li>HTML & CSS &#10003;</li>
-		<li>SQL &#10003;</li>
-	</ul>
-<h4 id="connect:">&#10085; Connect SOCIAL MEDIA:</h4>	
-<ul>
-	<li>Facbook: <a href="">https://www.facebook.com/zin.coder</a></li>
-	<li>Instagram: <a href="">https://www.instagram.com/zin.coder</a></li>
-</ul>
-</div>
-	
-<h4><i><b>Vision - Passion - Flexibility</h4>
-
-<h4 id="submitbugsorfixes:">&#10085; Submit or Fixes:</h4>
-
-<p>Email: <a href="">lehienvinh.tk4@gmail.com</a></p>
+<footer id="foot">
+<strong>THE END &#9749;</strong>
+</footer>
 
 </body>
 </html>
