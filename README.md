@@ -6,18 +6,18 @@
 <body>
 <header id="head">
 	<h3>&#9818; WEB DEVELOPER &#9818;</h3>
-	<h1>&#9752; PIP7 &#9752;</h1>
+	<h1>&#9752; ZIN &#9752;</h1>
 </header>
 <main id="main">
 	<div class="content-1">
 		<h3>ABOUT ME &#9734;</h3>
-			<p>&#9839;<strong> PIP7</strong> is a multilingual programmer who is loved for its software products.
-				<strong> PIP7</strong>'s software is not fixed in any language or website.
-				<strong> PIP7</strong> brings customers the websites that he trusts with his constant research and training.
+			<p>&#9839;<strong> ZIN</strong> is a multilingual programmer who is loved for its software products.
+				<strong> ZIN</strong>'s software is not fixed in any language or website.
+				<strong> ZIN</strong> brings customers the websites that he trusts with his constant research and training.
 			</p>
-		<p>&#9839; In 2022, <strong>PIP7</strong> decided to follow the major that he always wanted to express as Web/App. His EP "The Projects" is a feature project of his at the end of 2022. ...
+		<p>&#9839; In 2022, <stronZININ</strong> decided to follow the major that he always wanted to express as Web/App. His EP "The Projects" is a feature project of his at the end of 2022. ...
 			</p>
-		<p>&#9839;<strong> PIP7</strong> teamed up with team-mates and launched The Projects in a new style. Once again, <strong>PIP7</strong> is seen as a programmer with a different and prominent direction in the <strong>IT</strong> market.
+		<p>&#9839;<strong> ZIN</strong> teamed up with team-mates and launched The Projects in a new style. Once again, <strong>ZIN</strong> is seen as a programmer with a different and prominent direction in the <strong>IT</strong> market.
 			</p>
 		
 <h4 id="dateofbirth">&#9835; DATE OF BIRTH: </h4>
