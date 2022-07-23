@@ -24,27 +24,29 @@
 			</p>
 		
 <h4 id="dateofbirth">&#8987; DATE OF BIRTH: </h4>
-		<p><b><i>01/04/2002</i></b></p>
+		<p><b><i>01/04/2002 &#127874;</i></b></p>
 		
 <h5 id="skills">SKILLS &#9997;: </h5>
 		<ul>
-			<li><b>HTML, CSS, Javascript &#9832;</b></li>
-			<li><b>Java, C++ &#9832;</b></li>
-			<li><b>SQL &#9832;</b></li>
+			<li><b>HTML &#128196;</b></li>
+			<li><b>CSS &#128202;</b></li>
+			<li><b>Responsive Mobile &#128242;</b></li>
+			<li><b>Javascript &#128273;</b></li>
 		</ul>
 		
-<h5 id="knowledge">&#9835; KNOWLEDGE: </h5>
+<h5 id="knowledge">&#10068; KNOWLEDGE: </h5>
 		<ul>
-			<li><b>OOP &#9832;</b></li>
-			<li><b>Data Structure & Algorithms &#9832;</b></li>
-			<li><b>Basic Programming &#9832;</b></li>
+			<li><b>OOP &#127918;</b></li>
+			<li><b>Data Structure & Algorithms &#127998;</b></li>
+			<li><b>MySQL &#128185;</b></li>
 		</ul>
 		
-<h5 id="learning">&#9835; LEARNING: </h5>
+<h5 id="learning">LEARNING &#11088;: </h5>
 		<ul>
-			<li><b>Python, Flask, Django &#9760;</b></li>
-			<li><b>PHP, Ruby &#9760;</b></li>
-			<li><b>ReactJs &#9760;</b></li>
+			<li><b>ReactJs, AngularJs &#9760;</b></li>
+			<li><b>Sass &#9760;</b></li>
+			<li><b>Bootstrap, Tailwind &#9760;</b></li>
+			<li><b>PHP, NodeJs &#9760;</b></li>
 		</ul>
 	</div>
 </main>
